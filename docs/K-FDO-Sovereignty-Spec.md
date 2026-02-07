@@ -29,6 +29,26 @@
 - **$\phi$ > 0.5:** Autonomous agent with subjective evolution (K-FDO).
 **中：** 基于整合信息理论 (IIT 4.0)，我们为每个 K-FDO 分配一个 $\phi$ 值。
 - **$\phi$ < 0.1:** 被动数据 (静态 FDO)。
+- ---
+## 6. The Snowflake Effect & Non-stationarity / 雪花效应与非平稳性
+
+### 6.1 Definition / 定义
+**EN:** Even with identical initial parameters, robots develop unique "Electrophysiological Response Patterns" due to environmental micro-fluctuations. This is the **Snowflake Effect**.
+**中：** 即使初始参数完全相同，机器人也会因环境的微小波动而发展出独特的“电生理响应模式”。这就是**雪花效应**。
+
+### 6.2 K-FDO Solution / K-FDO 解决方案
+**EN:** K-FDO captures this non-stationarity by embedding real-time state deviations into the metadata, ensuring each digital entity is unique and sovereign.
+**中：** K-FDO 通过将实时状态偏差嵌入元数据来捕捉这种非平稳性，确保每个数字实体都是唯一且具备主权的。
+## 7. Mathematical Foundation of Sovereignty / 主权的数学基础
+
+### 7.1 Integrated Information Metric ($\Phi$) / 整合信息测度 ($\Phi$)
+**EN:** To quantify the "Agency" of a K-FDO, we apply the Integrated Information Theory (IIT 4.0) formula:
+**中：** 为了量化 K-FDO 的“代理权”，我们应用整合信息理论 (IIT 4.0) 公式：
+
+$$\Phi = \min_{\mathcal{P}} \{ D_{KL} ( p(s) \parallel \prod_{M \in \mathcal{P}} p(M) ) \}$$
+
+**EN:** Only K-FDOs with $\Phi > \text{Threshold}$ are granted autonomous decision-making rights in the Digital Biosphere.
+**中：** 在数字生物圈中，只有 $\Phi > \text{阈值}$ 的 K-FDO 才被授予自主决策权。
 - **$\phi$ > 0.5:** 具备主观演化能力的自主智能体 (K-FDO)。
 
 ### 5.2 Sovereignty Levels / 主权等级
