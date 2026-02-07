@@ -3,7 +3,7 @@
   "description_EN": "Metadata schema for high-precision robot grasping actions.",
   "description_ZH": "高精度机器人抓取动作的元数据架构。",
   "attributes": {
-    "PID": "Pending",
+    "PID": "https://hdl.handle.net/20.500.8888/K-FDO-ROBOT-001",
     "Protocol": "RLCP-v1",
     "Sovereignty": "K-FDO-Standard-2026",
     "Metrics": {
