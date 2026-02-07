@@ -54,3 +54,12 @@ $$\Phi = \min_{\mathcal{P}} \{ D_{KL} ( p(s) \parallel \prod_{M \in \mathcal{P}}
 ### 5.2 Sovereignty Levels / 主权等级
 **EN:** Higher $\phi$ values grant the digital object greater autonomy in cross-border data transfer.
 **中：** 更高的 $\phi$ 值赋予数字对象在跨境数据传输中更大的自主权。
+## 8. 2026 Compliance: Dynamic DPP Implementation
+## 8. 2026 合规性：动态数字产品护照 (DPP) 实现
+
+**EN:** Traditional static DPPs cannot track the "Metabolic Drift" of robotic hardware. Our K-FDO architecture provides a **Real-time Compliance Kernel** that updates as the robot ages.
+**中：** 传统的静态 DPP 无法追踪机器人硬件的“代谢漂移”。我们的 K-FDO 架构提供了一个**实时合规内核**，随机器人老化而自动更新状态。
+
+**Key Benefit / 核心优势:**
+* **Automatic Audit / 自动审计**: Compliance status is a self-governing attribute within the K-FDO.
+* **合规状态**是 K-FDO 内部的自我治理属性，无需外部人工审计。
