@@ -1,6 +1,9 @@
 # Kinetic-Robotics-FDO-Sovereignty (K-RFS)
 # 动力学机器人 FDO 主权协议 (K-RFS)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18518331.svg)](https://doi.org/10.5281/zenodo.18518331)
 
+> **Digital Object Identifier:** [10.5281/zenodo.18518331](https://doi.org/10.5281/zenodo.18518331)
+> **Bin Zhang (张斌) | Lead Architect**
 ## 1. Vision / 愿景
 **EN:** This project defines the global standard for Kinetic FAIR Digital Objects (K-FDO). We aim to provide "Digital Muscle Memory" with technical sovereignty for embodied AI, ensuring that robot actions are interoperable, autonomous, and compliant with 2026 Digital Product Passport (DPP) regulations.
 **中：** 本项目定义了全球动力学 FAIR 数字对象 (K-FDO) 标准。我们旨在为具身智能提供具备技术主权的“数字肌肉记忆”，确保机器人动作在 2026 年数字产品护照 (DPP) 法规下具备互操作性、自主性与合规性。
@@ -16,3 +19,8 @@
 ## 3. Governance / 治理
 **EN:** Technical sovereignty is maintained through PID-based kernel attributes, preventing unauthorized logic reverse-engineering.
 **中：** 通过基于 PID 的内核属性维护技术主权，防止未经授权的逻辑逆向工程。
+## Citation / 引用
+If you use this framework or the RLCP protocol in your research, please cite it as:
+如果您在研究中使用此框架或 RLCP 协议，请引用为：
+
+**Zhang, B. (2026). Towards a Sovereign Digital Biosphere: K-FDO Framework for Embodied AI Metadata Interoperability. Zenodo. https://doi.org/10.5281/zenodo.18518331**
