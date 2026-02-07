@@ -1,0 +1,15 @@
+{
+  "profile_name": "KineticGraspStandard",
+  "description_EN": "Metadata schema for high-precision robot grasping actions.",
+  "description_ZH": "高精度机器人抓取动作的元数据架构。",
+  "attributes": {
+    "PID": "Pending",
+    "Protocol": "RLCP-v1",
+    "Sovereignty": "K-FDO-Standard-2026",
+    "Metrics": {
+      "Phi_Value": "Target >= 0.5",
+      "Logic_Purity": "Minimum 80%"
+    }
+  },
+  "machine_actions": ["Execute", "Metabolize", "Protect"]
+}
