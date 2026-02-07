@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "krfs": "https://joy7758.github.io/Kinetic-Robotics-FDO-Sovereignty/ontology/#",
+    "logicPurity": {
+      "@id": "krfs:logicPurity",
+      "@type": "xsd:float",
+      "label": "逻辑纯度 - 衡量动力学核脱离原始数据的程度"
+    },
+    "phiValue": {
+      "@id": "krfs:phiValue",
+      "@type": "xsd:float",
+      "label": "意识测度 - 基于 IIT 4.0 的系统集成度指标"
+    }
+  }
+}
