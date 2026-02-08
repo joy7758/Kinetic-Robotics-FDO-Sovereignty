@@ -1,26 +1,14 @@
-# Kinetic-Robotics-FDO-Sovereignty (K-RFS)
-# 动力学机器人 FDO 主权协议 (K-RFS)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18518331.svg)](https://doi.org/10.5281/zenodo.18518331)
+---
+## 🛡️ K-RFS 技术主权架构 (Dual-Core Architecture)
 
-> **Digital Object Identifier:** [10.5281/zenodo.18518331](https://doi.org/10.5281/zenodo.18518331)
-> **Bin Zhang (张斌) | Lead Architect**
-## 1. Vision / 愿景
-**EN:** This project defines the global standard for Kinetic FAIR Digital Objects (K-FDO). We aim to provide "Digital Muscle Memory" with technical sovereignty for embodied AI, ensuring that robot actions are interoperable, autonomous, and compliant with 2026 Digital Product Passport (DPP) regulations.
-**中：** 本项目定义了全球动力学 FAIR 数字对象 (K-FDO) 标准。我们旨在为具身智能提供具备技术主权的“数字肌肉记忆”，确保机器人动作在 2026 年数字产品护照 (DPP) 法规下具备互操作性、自主性与合规性。
+**EN:** The K-RFS ecosystem is powered by a dual-core architecture that bridges kinetic logic with legal compliance.
+**中：** K-RFS 生态系统采用双核驱动架构，实现了动力学逻辑与法律合规的深度闭环。
 
-## 2. Core Pillars / 技术支柱
-* **RLCP (Regenerative Logic-Core Protocol) / 再生逻辑核协议**: 
-    Decoupling motion logic from environmental facts. / 实现动作逻辑与环境事实的解耦。
-* **AASP (Adaptive Agent Sovereignty Protocol) / 自适应智能体主权协议**: 
-    Measuring "Intelligence Level" via IIT 4.0 $\phi$ metrics. / 通过 IIT 4.0 $\phi$ 指标测定智能体的“智力等级”。
-* **DOIP 2.0 / 数字对象接口协议**: 
-    Enabling peer-to-peer autonomous machine interaction. / 实现机器对机器的自主对等交互。
+| 核心组件 (Core Component) | 职能 (Function) | 状态 (Status) |
+| :--- | :--- | :--- |
+| 🚀 **[K-RFS Core](https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty)** | **动力学实体层：** 定义 RLCP 协议与 K-FDO 元数据，锁定“动作主权”。 | **已上线 (Stable)** |
+| ⚖️ **[MCP-Legal-China](https://github.com/joy7758/MCP-Legal-China)** | **治理与合规层：** 将 2026 DPP 法规转化为机器代码，确立“制度主权”。 | **已上线 (Active)** |
 
-## 3. Governance / 治理
-**EN:** Technical sovereignty is maintained through PID-based kernel attributes, preventing unauthorized logic reverse-engineering.
-**中：** 通过基于 PID 的内核属性维护技术主权，防止未经授权的逻辑逆向工程。
-## Citation / 引用
-If you use this framework or the RLCP protocol in your research, please cite it as:
-如果您在研究中使用此框架或 RLCP 协议，请引用为：
-
-**Zhang, B. (2026). Towards a Sovereign Digital Biosphere: K-FDO Framework for Embodied AI Metadata Interoperability. Zenodo. https://doi.org/10.5281/zenodo.18518331**
+**Note:** Protocols for Intelligence (AASP) and Connectivity (DOIP) are natively integrated within the K-RFS Core specification.
+*(注：智能度量 AASP 与通信协议 DOIP 已内置于 K-RFS 核心规范中。)*
+---
