@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-02-22T14:59:54Z",
+  "repository": "Kinetic-Robotics-FDO-Sovereignty",
+  "standard_id": "RR-KRFS",
+  "status": "Draft",
+  "summary_en": "Sovereignty model and standards for robotics and kinetic digital objects.",
+  "summary_cn": "机器人与动力学数字对象的主权模型与标准。",
+  "github_url": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty",
+  "governance_hub": "https://github.com/joy7758/RedRock-Constitution",
+  "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-krfs",
+  "repos_index_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md",
+  "ecosystem_graph_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md",
+  "quality_workflow": "https://github.com/joy7758/Kinetic-Robotics-FDO-Sovereignty/actions/workflows/quality-baseline.yml",
+  "keywords": [
+    "robotics",
+    "kinetic-fdo",
+    "sovereignty",
+    "industrial-ai",
+    "compliance"
+  ],
+  "language_support": [
+    "zh-CN",
+    "en"
+  ],
+  "related_repositories": [
+    {
+      "name": "ISAS-Core",
+      "url": "https://github.com/joy7758/ISAS-Core",
+      "standard_id": "RR-ISAS"
+    },
+    {
+      "name": "pFDO-Specification",
+      "url": "https://github.com/joy7758/pFDO-Specification",
+      "standard_id": "RR-pFDO"
+    },
+    {
+      "name": "safety-valve-spec",
+      "url": "https://github.com/joy7758/safety-valve-spec",
+      "standard_id": "RR-SVS"
+    },
+    {
+      "name": "RedRock-Constitution",
+      "url": "https://github.com/joy7758/RedRock-Constitution",
+      "standard_id": "RR-CORE"
+    }
+  ]
+}
