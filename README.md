@@ -1,6 +1,11 @@
 # K-RFS: Kinetic Robotics FDO Sovereignty
 # K-RFS: 动力学机器人 FDO 主权
 
+> Legacy lineage repository.
+> Historical context for the earlier DPP / sovereignty / governance formation phase.
+> Not part of the current canonical five-layer verifiable autonomous systems stack.
+> Current canonical entry: [joy7758](https://github.com/joy7758) profile and [digital-biosphere-architecture](https://github.com/joy7758/digital-biosphere-architecture).
+
 <!-- SEARCH_VISIBILITY_BEGIN -->
 ## Discoverability Snapshot / 检索曝光摘要
 
@@ -77,6 +82,10 @@ Traditional robotics data lacks "Agency." K-FDO treats robot actions as living d
 传统的机器人数据缺乏“代理权”。K-FDO 将机器人动作视为具有“代谢率”和“逻辑纯度”的活性数字实体。
 
 ### Key Metadata Fields / 关键元数据字段
+
+## Current relationship to the main line
+
+This repository is an adjacent historical branch from the robotics sovereignty track. It preserves a domain-specific sovereignty and kinetic-object line, but it is not part of the current canonical VAST core stack.
 
 | Field / 字段 | Type / 类型 | Description / 描述 |
 | :--- | :--- | :--- |
